@@ -70,6 +70,10 @@ iframe {
   flex-grow: 1;
   padding: 1rem;
 }
+.banner {
+ background: url('../images/blue-and-brown-milky-way-galaxy-2694037 (1).jpg');
+  
+  
 .profile-img {
   max-height: 40vh;
   width: auto;
