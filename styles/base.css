@@ -73,7 +73,7 @@ iframe {
 .banner {
  background: url('../images/blue-and-brown-milky-way-galaxy-2694037 (1).jpg');
   backgroud-size: cover;
-  min-height: 35vh;
+  min-height: 50vh;
   padding: 2rem;
   text-align: center; 
 }
