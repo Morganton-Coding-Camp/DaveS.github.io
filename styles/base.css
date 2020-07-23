@@ -82,7 +82,7 @@ iframe {
   display: inline-block;
   margin: auto; 
   padding: 1rem;
-  font-size: 2ren;
+  font-size: 2rem;
   width: auto;
   background: #253f3f; 
   color: #f8fbfb;
@@ -99,4 +99,5 @@ iframe {
 .favorite-color o,
 .favorite-music o,
 .favorite-pastime o {
-  font-size: 5ren;
+  font-size: 5rem;
+}
