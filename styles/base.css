@@ -95,3 +95,8 @@ iframe {
   width: auto;
   border-radius: 50%;
 }
+
+.favorite-color o,
+.favorite-music o,
+.favorite-pastime o {
+  font-size: 5ren;
