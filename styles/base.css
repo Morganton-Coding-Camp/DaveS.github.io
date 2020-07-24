@@ -114,7 +114,7 @@ body {
 .wrapper {
 	width: 100%;
 	margin: auto;
-	height: 100vh;
+	height: 50vh;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -161,7 +161,7 @@ body {
 .m:hover {
 	color: orchid;
 	background-color: red;
-	font-size: 14rem;
+	font-size: 10rem;
 	cursor: pointer;
 }
 
@@ -169,27 +169,26 @@ body {
 	color: blue;
 	background-color: yellow;
 	cursor: pointer;
-	font-size: 14rem;
+	font-size: 10rem;
 }
 
 .g:hover {
 	color: lightskyblue;
 	background-color: limegreen;
 	cursor: pointer;
-	font-size: 14rem;
+	font-size: 10rem;
 }
 
 .a:hover {
 	color: yellow;
 	background-color: blue;
 	cursor: pointer;
-	font-size: 14rem;
-}
+	font-size: 10rem;
 
 .n:hover {
 	color: red;
 	background-color: orchid;
-	font-size: 14rem;
+	font-size: 10rem;
 	cursor: pointer;
 }
 
@@ -200,6 +199,6 @@ body {
 .ex:hover {
 	background-color: red;
 	color: orchid;
-	font-size: 14rem;
+	font-size: 10rem;
 	cursor: pointer;
 }
