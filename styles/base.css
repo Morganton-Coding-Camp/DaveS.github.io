@@ -95,3 +95,14 @@ iframe {
   width: auto;
   border-radius: 50%;
 }
+
+.Hello {
+   display: inline-block;
+  margin: auto; 
+  padding: 1rem;
+  font-size: 2ren;
+  width: auto;
+  background: #253f3f; 
+  color: #f8fbfb;
+}
+  
