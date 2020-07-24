@@ -73,7 +73,7 @@ iframe {
 .banner {
  background: url('../images/milky-way-galaxy-during-nighttime-1252890.jpg');
   backgroud-size: cover;
-  min-height: 30vh;
+  min-height: 20vh;
   padding: 2rem;
   text-align: center; 
 }
