@@ -97,12 +97,8 @@ iframe {
 }
 
 .Hello {
-   display: inline-block;
-  margin: auto; 
-  padding: 1rem;
   font-size: 1ren;
   width: auto;
-  background: #253f3f; 
   color: #f8fbfb;
   text-align: center;
 }
