@@ -106,4 +106,32 @@ iframe {
   color: #f8fbfb;
   text-align: center;
 }
+ 
+.footer {
+  padding: 3rem;
+  text-align: center;
+}
+
+.btn {
+  padding: 2rem 5rem;
+  background: #253f3f;
+  color: 	#FFFFFF;
+  font-size: 2rem;
+  border-radius: .25rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-decoration: none;
+  border: 2px double 	#C0C0C0;
+  transition: all .5s ease;
+}
+
+.btn:hover {
+  border: 10px solid #FFFFFF;
+  border-radius: .1rem;
+  letter-spacing: 4px;
+}
+
+  
+  
+  
   
